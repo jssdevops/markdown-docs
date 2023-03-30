@@ -26,7 +26,7 @@ SSL encryption security works on asymmetric encryption,Asymmetric encryption wor
 
 > *The private key is private to the one who is wanting to send data out to the public. The public key is shared with the world. Data encrypted using private key can only be decrypted using the public key and vice versa. This is how the distribution issue is avoided in the asymmetric encryption mechanisms.*
 
----
+
 
 &nbsp;
 
@@ -177,28 +177,4 @@ The following example shows how to import a certificate using the AWS Management
 If everything is correct, choose Import, & its done Cheers.... !! 
 
 [Click here for AWS Certificate Manager User guide... ](https://docs.aws.amazon.com/acm/latest/userguide/acm-overview.html)
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

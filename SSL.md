@@ -69,7 +69,7 @@ After all these questions are answered, we will get a .csr file & private key.
 
 Now, Login into your certificate provider in our case its *https://www.namecheap.com/* .
 
-![seagage](https://raw.githubusercontent.com/jigarsoni17/imagesformd/main/seagage-csr.gif)
+![seagage](https://raw.githubusercontent.com/jigarsoni17/imagesformd/main/Yellow%20Bright%20Business%20Idea%20Tutorial%20Youtube%20Thumbnail.png)
 
 --- 
 &nbsp;

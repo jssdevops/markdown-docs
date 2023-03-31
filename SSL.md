@@ -50,13 +50,13 @@ openssl req -new -newkey rsa:2048 -nodes -keyout your_domain.key -out your_domai
 
 Here there will be several questions that we need to answer, like:
 
-![image](https://raw.githubusercontent.com/jigarsoni17/imagesformd/main/seagage-csr-image.png)
+![image]([https://raw.githubusercontent.com/jigarsoni17/imagesformd/main/seagage-csr-image.png](https://raw.githubusercontent.com/jigarsoni17/imagesformd/main/csr-generate-image.png)
 
 &nbsp;
 
 After all these questions are answered, we will get a .csr file & private key.
 
-![image](https://raw.githubusercontent.com/jigarsoni17/imagesformd/main/seagage_com.csr-image.png)
+![image](https://raw.githubusercontent.com/jigarsoni17/imagesformd/main/csr-generate-image.png)
 
 #### Pic 2. A sample CSR file. Notice the CSR file is only containing the PUBLIC key and some metadata.
 

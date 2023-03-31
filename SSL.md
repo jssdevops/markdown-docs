@@ -56,7 +56,7 @@ Here there will be several questions that we need to answer, like:
 
 After all these questions are answered, we will get a .csr file & private key.
 
-![image](https://raw.githubusercontent.com/jigarsoni17/imagesformd/main/seagage_com.csr-image.png)
+![image](https://raw.githubusercontent.com/jigarsoni17/imagesformd/main/certificate-after.jpeg)
 
 #### Pic 2. A sample CSR file. Notice the CSR file is only containing the PUBLIC key and some metadata.
 
